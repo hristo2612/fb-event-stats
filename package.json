@@ -1,0 +1,27 @@
+{
+  "name": "fb-event-stats",
+  "version": "1.0.0",
+  "description": "Check Fb Events and see what percentage of girls are going to the parteeey :O",
+  "main": "crawl.js",
+  "scripts": {
+    "start": "node crawl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristo2612/fb-event-stats.git"
+  },
+  "keywords": [
+    "fbevent",
+    "stats"
+  ],
+  "author": "hristo2612",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hristo2612/fb-event-stats/issues"
+  },
+  "homepage": "https://github.com/hristo2612/fb-event-stats#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "nightmare": "^3.0.0"
+  }
+}
