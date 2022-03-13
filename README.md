@@ -1,3 +1,5 @@
+<h2>No longer works. Facebook now shows only friends and close people going to events, not everyone.</h2>
+
 # fb-event-stats
 This is a repo intended for personal use, to see what percentage of girls and guys are going to an event you gave
 
